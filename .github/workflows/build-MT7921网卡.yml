@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: MT9721网卡
+name: MT7921网卡
 
 on:
   repository_dispatch:
