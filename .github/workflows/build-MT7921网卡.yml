@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: MT7921网卡
+name: fork后更改内核为6.1.22
 
 on:
   repository_dispatch:
