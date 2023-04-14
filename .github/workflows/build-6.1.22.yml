@@ -22,7 +22,7 @@ on:
 # https://github.com/coolsnowwolf/lede
 # 修改linux内核版本为6.1.22
 env:
-  REPO_URL: https://github.com/zzh151223/ledeOpenWrt
+  REPO_URL: https://github.com/zzh151223/ledeOpenWrt/tree/6.1.22
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
